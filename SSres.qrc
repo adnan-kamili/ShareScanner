@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/edit-delete.png</file>
+        <file>icons/intranet.png</file>
+        <file>icons/user-identity.png</file>
+        <file>icons/tree_diagramm_delete.png</file>
+        <file>icons/tree_diagramm_new.png</file>
+        <file>icons/zmedia-playback-pause.png</file>
+        <file>icons/zmedia-playback-start.png</file>
+        <file>icons/gnome_edit_clear.png</file>
+        <file>icons/find.png</file>
+        <file>icons/gtk-find-and-replace.png</file>
+        <file>icons/computer.png</file>
+        <file>icons/public.png</file>
+        <file>icons/public_locked.png</file>
+    </qresource>
+</RCC>
