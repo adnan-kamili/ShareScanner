@@ -1,0 +1,9 @@
+ShareScanner is a free IP and Netbios scanner with a nice graphic user interface (Qt). The program uses libsmbclient library to display which types of resources are shared on the network (including system and hidden). In addition, it allows you to mount shared folders as network drives, browse them using Nautilus, Dolphin and Konqueror. 
+
+RPM and Debian packages can be downloaded from:
+http://sourceforge.net/projects/sharescanner/
+
+Written by:
+
+Syed Adnan Kamili
+Pawan Kumar Thakur
